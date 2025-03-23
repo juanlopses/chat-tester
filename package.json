@@ -1,0 +1,13 @@
+{
+  "name": "chat-global",
+  "version": "1.0.0",
+  "description": "Chat global en tiempo real con Node.js y Socket.io",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "*",
+    "socket.io": "*"
+  }
+}
